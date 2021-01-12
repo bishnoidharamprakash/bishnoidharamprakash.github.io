@@ -11,7 +11,7 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "6a8e81bd10b7e1ca432965100e0664a8",
-"assets/AssetManifest.json": "da266c584a97ae2a853f42ae039480ca",
+"assets/AssetManifest.json": "a83b3087591f5857f890b1d8f1561d4f",
 "assets/NOTICES": "5191e3ce03a44c1463a6de8b6d0691dc",
 "assets/FontManifest.json": "ffa3da2f631363bd4d88edf76f5e8ef7",
 "assets/fonts/Poppins-Medium.ttf": "ba95810b56f476990ca71d15139d5111",
@@ -20,12 +20,13 @@ const RESOURCES = {
 "assets/fonts/Poppins-Bold.ttf": "c23534acbeddbaadfd0ab2d2bbfdfc84",
 "assets/fonts/Poppins-Thin.ttf": "c0fafa8397437c95848724aed686d63b",
 "assets/assets/images/news.png": "db65d04fa10f9f484e280cb83bce4758",
+"assets/assets/images/Screen-Shot-2017-09-04-at-2.08.03-PM.png": "a0611c7bd9a01fc0317e7bf09422c2ec",
 "assets/assets/images/bhajanlalji.png": "1b32281fd236f47f5b499b4b24181fc4",
 "assets/assets/images/jambhguru.png": "0cbb9617ab5281f8553303ede824180c",
 "assets/assets/images/facebook.png": "c8b9937c3742cb90994e9b03928e0b5c",
 "assets/assets/json/shabd_content.json": "9d5d2af2c0922d62e25fa1fea6686181",
 "assets/assets/json/bl_titles.json": "4acf436002594ffa415aef53191d83c0",
-"assets/assets/json/bl_content.json": "f42f2f48a637862224dbc53ecc772fdf",
+"assets/assets/json/bl_content.json": "bf76fbd69c8875355d1c018e149bf4e4",
 "assets/assets/json/shabd_titles.json": "c5a72041bd0915fb56157571358a3f46"
 };
 
