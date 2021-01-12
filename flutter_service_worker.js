@@ -6,7 +6,7 @@ const RESOURCES = {
   "version.json": "98ee89fdcde6918d9f1e69241a09eb83",
 "index.html": "a52143edd735d41e8fbeb8217eab532f",
 "/": "a52143edd735d41e8fbeb8217eab532f",
-"main.dart.js": "db7c8cf853e61bf1a9a01930486a510e",
+"main.dart.js": "325219b44c8c1ff5144ff2f711c395fa",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -25,7 +25,7 @@ const RESOURCES = {
 "assets/assets/images/facebook.png": "c8b9937c3742cb90994e9b03928e0b5c",
 "assets/assets/json/shabd_content.json": "9d5d2af2c0922d62e25fa1fea6686181",
 "assets/assets/json/bl_titles.json": "4acf436002594ffa415aef53191d83c0",
-"assets/assets/json/bl_content.json": "91dfc0b279e88941a418cb7b95980d93",
+"assets/assets/json/bl_content.json": "f42f2f48a637862224dbc53ecc772fdf",
 "assets/assets/json/shabd_titles.json": "c5a72041bd0915fb56157571358a3f46"
 };
 
